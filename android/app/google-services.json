@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "62108937144",
+    "firebase_url": "https://servicemateapp-5a6a5-default-rtdb.firebaseio.com",
+    "project_id": "servicemateapp-5a6a5",
+    "storage_bucket": "servicemateapp-5a6a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62108937144:android:9efa22e221ba0a3745fd4d",
+        "android_client_info": {
+          "package_name": "com.example.servicemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62108937144-dtivliu4brkthien4qplc7pm9dan3jk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.servicemate",
+            "certificate_hash": "657997b875bdd050279b52567771b822c569c7c8"
+          }
+        },
+        {
+          "client_id": "62108937144-neb04nu7o2eu2eofkrp4e8tod3u7gj8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.servicemate",
+            "certificate_hash": "c36ffbdf958e00892adf4886b6842b7155ca33ba"
+          }
+        },
+        {
+          "client_id": "62108937144-8ujnbiqo8i15vjgekelid5vsaq3hbv0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5HMkegujYtNyKENXhaf1Knli6DSPyd4"
+        },
+        {
+          "current_key": "AIzaSyCn-n1FspgP5t2XiOOkTa4pGGE8nYR0E7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62108937144-8ujnbiqo8i15vjgekelid5vsaq3hbv0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62108937144-039dun6d7lerlog3ft0atqg3dfe8pb2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.servicemate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62108937144:android:8c5de99a4b00e4d945fd4d",
+        "android_client_info": {
+          "package_name": "com.ideonixis.servicemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62108937144-8ujnbiqo8i15vjgekelid5vsaq3hbv0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5HMkegujYtNyKENXhaf1Knli6DSPyd4"
+        },
+        {
+          "current_key": "AIzaSyCn-n1FspgP5t2XiOOkTa4pGGE8nYR0E7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62108937144-8ujnbiqo8i15vjgekelid5vsaq3hbv0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62108937144-039dun6d7lerlog3ft0atqg3dfe8pb2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.servicemate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

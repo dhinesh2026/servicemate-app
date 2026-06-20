@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62108937144",
+    "project_id": "servicemateapp-5a6a5",
+    "storage_bucket": "servicemateapp-5a6a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62108937144:android:9efa22e221ba0a3745fd4d",
+        "android_client_info": {
+          "package_name": "com.example.servicemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5HMkegujYtNyKENXhaf1Knli6DSPyd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
